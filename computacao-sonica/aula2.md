@@ -56,3 +56,31 @@ ondas sao caracterizadas por
 - intensidade ou amplitude: intensidade do sinal ( grandezas = pressao acustica, dB, volts)
 - comprimento da onda ( lambda): distancia entre pontos de mesma amplitude na curva de amplitude x distancia
 
+MHS - caracterizado pela transferencia periodica entre energia potencial e cinetia no seu ciclo
+a função que descreve o deslocamento x no tempo (função horária) é uma função harmônica seno (ou cosseno)
+representação clássica de um sinal cuja amplitude varia senoidalmente no tempo com taxa de variação ω rad/s
+• O ângulo ϕ do movimento ao longo do tempo é dado por ϕ=ωt, isto é, o ângulo varia com no tempo t com velocidade angular ω
+• A velocidade (ou frequência) angular ω é uma constante e corresponde ao número de ciclos (2π) que ocorrem por segundo, assim ω=2πf
+
+– podemos multiplicar a senoide por A para
+representar amplitudes maiores que |1|
+(modulação)
+- varia com uma taxa regulada
+pela frequência angular (ω) que guarda
+relação direta com a frequência linear
+em Hz que está associado à periodicidade em
+2π, isto é, o número de volta completas (2π
+radianos) ocorrem por unidade de tempo
+
+Senóide generalizada
+extraida a partir do MHS
+–varia ao longo do tempo e do espaço
+– a senóide varia ao longo do espaço com uma taxa dada por 2π rad/λ, chamado de número de
+onda k
+k = 2π /λ
+
+– Senóide generalizada: onda varia no tempo com taxa 2π rad/T,varia
+no espaço com taxa 2π rad/λ, pode ter uma fase inicial ϕ diferente de
+zero e também um valor constante de amplitude inicial B
+f(t,x) = Asen(wt +- kx + q) + B
+
