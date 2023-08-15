@@ -40,7 +40,6 @@ partitura = frequencia por tempo
 
 #
 Principios da Ondulatoria
-
 -
 
 onda = perturbacao oscilante de uma grandeza fisica que varia no tempo e no espaço ( intensidade)
