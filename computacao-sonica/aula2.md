@@ -21,8 +21,9 @@ https://iazzetta.eca.usp.br/tutor/acustica/introducao/tabela1.html
 #
 
 periodicidade
-sons púros sao periodicos ( senoides) e sons complexos tambem a partir de sons puros sao senoides
+sons puros sao periodicos ( senoides) e sons complexos tambem a partir de sons puros sao senoides
 periodo = inverso da frequencia
+periodo intervalo de tempo de um ciclo
 t = 1 / f
 f em Hertz ( Hz)
 t em segundos ( s)
@@ -37,5 +38,21 @@ o certo e aumentar o volume do som
 
 partitura = frequencia por tempo
 
+#
+Principios da Ondulatoria
+-
 
- 
+onda = perturbacao oscilante de uma grandeza fisica que varia no tempo e no espaço ( intensidade)
+onda acustica = onda mecanica que se propaga no ar ou outros meios em modo longitudinal
+
+onda se caracteriza pela transmissao de uma perturbacao no meio fisico
+ondas em si podem ser transversais - perpendicular em direcao a propagacao - ( instrumentos de corda) ou longitudinais ( ar)
+onda pode ser transitoria - pulsos de curta duracao que nao se repetem periodicamente e sinais que duram poucos ciclos
+              periodica - sinais complexos e periodicos produzidos por instrumentos e voz
+              quase periodica
+ondas sao caracterizadas por
+- forma da onda ( relacao com o timbre)
+- periodicidade
+- intensidade ou amplitude: intensidade do sinal ( grandezas = pressao acustica, dB, volts)
+- comprimento da onda ( lambda): distancia entre pontos de mesma amplitude na curva de amplitude x distancia
+
