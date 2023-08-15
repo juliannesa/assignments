@@ -2,7 +2,8 @@
 Introduçao ao som
 ---
 
-som = energia mecanica, vibracao acustica
+som = energia mecanica, ondas/vibracoes acustica
+fisica ondulatoria
 
 sons puros - unica frequencia - sinal estacionario ( frequencia constante) que a forma e de uma onda senoidal
 #
@@ -33,4 +34,8 @@ faixa de 100 < f < 1000 Hz
 
 aumentar som - errado, pois = aumentar frequencia
 o certo e aumentar o volume do som
+
+partitura = frequencia por tempo
+
+
  
