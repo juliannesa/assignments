@@ -38,6 +38,13 @@ o certo e aumentar o volume do som
 
 partitura = frequencia por tempo
 
+as grandezas fundamentais do som
+-intensidade
+-altura
+-duracao
+-timbre
+-espacialidade
+
 #
 Principios da Ondulatoria
 -
