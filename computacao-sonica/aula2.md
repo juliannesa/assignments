@@ -50,13 +50,16 @@ Principios da Ondulatoria
 -
 
 onda = perturbacao oscilante de uma grandeza fisica que varia no tempo e no espaço ( intensidade)
+
 onda acustica = onda mecanica que se propaga no ar ou outros meios em modo longitudinal
 
 onda se caracteriza pela transmissao de uma perturbacao no meio fisico
-ondas em si podem ser transversais - perpendicular em direcao a propagacao - ( instrumentos de corda) ou longitudinais ( ar)
+ondas em si podem ser transversais - perpendicular em direcao a propagacao ( instrumentos de corda) ou longitudinais ( ar)
+
 onda pode ser transitoria - pulsos de curta duracao que nao se repetem periodicamente e sinais que duram poucos ciclos
               periodica - sinais complexos e periodicos produzidos por instrumentos e voz
               quase periodica
+              
 ondas sao caracterizadas por
 - forma da onda ( relacao com o timbre)
 - periodicidade
