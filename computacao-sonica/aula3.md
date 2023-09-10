@@ -26,9 +26,8 @@ Nivel de Intensidade Sonora(NS) em Decibeis(dB)
 NIS é uma medida relativa à intensidade mínima audível (umbral auditivo) dada por Io= 10-12 (W/m2)
 ou 10-16 (W/cm2)
 
-A pressão p é a medida da força (unidade N, Newton) aplicada
-pela onda sonora numa superfície de área A (unidade m2). A
-unidade de medida é o Pascal (Pa = N/m2)
+A pressão p é a medida da força (unidade N, Newton) aplicada pela onda sonora numa superfície de área A (unidade m2)
+A unidade de medida é o Pascal (Pa = N/m2)
 
 para um som progredindo
 em uma direção, a potência sonora e portanto a intensidade I
@@ -42,5 +41,16 @@ I = Pressao^2 / const
 – Tanto o Nível de Intensidade Sonora (NIS) quanto o Nível de Pressão
 Sonora (NPS ou SPL) aumentam igualmente de +3dB (e não dobram!)
 
+ Volume em acústica (loudness) é uma medida perceptual do
+nível de pressão sonora
+
+Unidade: fone (phon)
+
 curvas desenvolvidas para audiometria humana - mais amplificacao de baixa frequencia para perceber 
 entre 3000/4000 - melhor audicao - som humanot
+
+A variação do volume nas baixas e altas frequências é muito mais acentuada que nas frequências médias
+
+A percepção da variação do volume em função da frequência é bem menor nas dinâmicas mais altas (curvas com volume em fones maior) à isto é, as curvas se tornam cada vez mais planas a medida em que o NPS aumenta
+
+
