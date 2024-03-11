@@ -20,3 +20,10 @@ bool inicializaGrafo(Grafo* grafo, int nv){
   }
   return true;
 }
+//imprimeGrafo
+//insereAresta
+//existeAresta
+//removeAresta
+//listaAdjVazia
+//proxListaAdj
+//liberaGrafo
